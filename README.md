@@ -29,10 +29,15 @@ Meet the Equipment
 
 ### Randy
 
+![Randy](images/randy.png)
+
 ### Earl
+
+![Earl](images/earl.png)
 
 ### Earl Jr.
 
+![Earl Jr.](images/earljr.png)
 
 The Projects
 ------------
